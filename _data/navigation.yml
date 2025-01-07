@@ -11,8 +11,8 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "CV/Resume"
-    url: /cv/
+  - title: "Resume"
+    url: /resume/
 
   - title: "Portfolio"
     url: /portfolio/
