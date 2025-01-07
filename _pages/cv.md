@@ -17,7 +17,7 @@ Education
   
 * B.Tech. in Computer Science, **Vellore Institute of Technology**, *Jun 2021* 
     * GPA: 8.47/10
-    * Coursework: Database Management, Data Structures and Algorithm, Parallel and Distributed Computing, Statistics for Engineers 
+    * Coursework: Database Management, Data Structures and Algorithms, Parallel and Distributed Computing, Statistics for Engineers 
     
 
 Work experience
@@ -38,7 +38,7 @@ Work experience
 
 * Data Engineering Intern, **ZS Associates**, *Feb 2021 - Jul 2021*
   * Developed Python Flask microservices and REST APIs for an Angular web application, serving 2000+ users for a major east coast client.
-  * Designed a Python tool to auto-format SQL queries, saving up to 60% of time on script refinement for readability.
+  * Designed a Python tool to auto-format SQL queries, saving up to 60% of time on script refinement for readability. 
   
 
 **[Download Resume](https://drive.google.com/file/d/18Tvjt_NJg4fSwhW4LziWUs6PSRGtAVDs/view?usp=sharing)** 
