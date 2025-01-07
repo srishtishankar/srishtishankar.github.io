@@ -11,54 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Information Studies - Data Science and Analytics, **University of Texas at Austin**, *May 2025 (expected)* 
+    * GPA: 3.89/4.0
+    * Coursework: Data Wrangling, Scientific Machine Learning, Data Visualization, Natural Language Processing, Data Storytelling
+  
+* B.Tech. in Computer Science, **Vellore Institute of Technology**, *Jun 2021* 
+    * GPA: 8.47/10
+    * Coursework: Database Management, Data Structures and Algorithm, Parallel and Distributed Computing, Statistics for Engineers 
+    
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Data Science Intern, **Texas Department of Transportation**, *May 2024 - Present*
+  * Fine-tuned a BERT model with LORA to classify incident narratives to interpreted fields in CR-3 Texas Peace Officer's crash report.
+  * Conducted exploratory data analysis and created balanced datasets to optimize model performance and increase its accuracy.
+  * Developed a multimodal model using visual features from crash site images, categorical and textual data, reaching an accuracy of 92%.
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Data Engineer, **ZS Associates**, *Aug 2021 - May 2023*
+  * Built and deployed 50+ ETL pipelines on AWS Step Functions using DynamoDB, AWS Glue, and Snowflake for data warehousing processes.
+  * Developed a PySpark module for data ingestion of unstructured S3 data into a structured format within 1hr, orchestrated via Airflow.
+  * Designed data models and profiled commercial clinical data across 5+ domains to identify KPIs and data anomalies.
+  * Performed integration testing to identify and resolve bugs during SIT/UAT phases, optimizing pipeline runtime and efficiency by 40%.
+  * Mentored 6+ junior colleagues on project onboarding and best practices through knowledge transfer sessions.
+  * Led CI/CD production deployments with a 100% on-time record.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Data Engineering Intern, **ZS Associates**, *Feb 2021 - Jul 2021*
+  * Developed Python Flask microservices and REST APIs for an Angular web application, serving 2000+ users for a major east coast client.
+  * Designed a Python tool to auto-format SQL queries, saving up to 60% of time on script refinement for readability.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**[Download Resume](https://drive.google.com/file/d/18Tvjt_NJg4fSwhW4LziWUs6PSRGtAVDs/view?usp=sharing)** 
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
