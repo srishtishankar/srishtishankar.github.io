@@ -14,11 +14,12 @@ main:
   - title: "Resume"
     url: /resume/
 
-  - title: "Portfolio"
-    url: /portfolio/
-
   - title: "Project"
     url: /project/
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+  
     
   # - title: "Teaching"
   #   url: /teaching/    
