@@ -14,8 +14,8 @@ main:
   - title: "Resume"
     url: "https://drive.google.com/file/d/1uAEntpaunXyFB6SEjyxdNjRqufldmJgN/view?usp=sharing"
 
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
     
   - title: "Portfolio"
     url: "https://public.tableau.com/app/profile/srishti.shankar/vizzes"
