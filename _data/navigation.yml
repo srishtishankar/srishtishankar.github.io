@@ -12,7 +12,7 @@ main:
   #   url: /talks/    
 
   - title: "Resume"
-    url: /resume/
+    url: "https://drive.google.com/file/d/1uAEntpaunXyFB6SEjyxdNjRqufldmJgN/view?usp=sharing"
 
   - title: "Projects"
     url: /projects/
