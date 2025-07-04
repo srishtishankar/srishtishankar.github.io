@@ -27,3 +27,14 @@ Updates
 **Aug 2021**: I started full-time with ZS as a Data Analytics Engineer <br>
 **Jun 2021**: I graduated from VIT Vellore with a BTech in Computer Science <br>
 **Feb 2021**: I joined ZS as a Business Technology Analyst intern <br>
+
+Project
+======
+**[RAG based Research Assistant](https://github.com/srishtishankar/RAG-research-assistant)** <br>
+A Research Assistant Tool that utilizes a Retrieval-Augmented Generation (RAG) approach to provide precise and contextually relevant answers to queries based on a dataset of scientific papers. By combining advanced retrieval techniques and large language models (LLMs), this system delivers accurate and concise responses for research purposes. <br>
+
+**[Text Summarization using Deep Learning](https://github.com/srishtishankar/sds384-text-summarization)** <br>
+A text summarization tool that uses deep learning techniques to summarize scientific papers. The tool is capable of automatically generating concise and informative summaries by extracting key information from lengthy texts efficiently, leveraging deep learning algorithms, thus aiding researchers in identifying relevant literature. <br>
+
+**[Food, Nutrients and Obesity rate](https://github.com/srishtishankar/data-wrangling)** <br> 
+In this project, we analyzed the relationship between the consumption of specific dairy products like butter, cheese, cream, yogurt, and ice cream, and obesity rates across various age groups in 2017-2018. <br>
