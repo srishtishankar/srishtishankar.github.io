@@ -13,17 +13,17 @@ About Me
 ======
 I’m passionate about leveraging data to solve complex problems, particularly in areas like data analytics, data engineering, business intelligence, and natural language processing.
 
-My technical toolkit includes *Python*, *SQL*, *AWS*, *Tableau*, *PySpark*, *Snwoflake* and *machine learning frameworks*.
+My technical toolkit includes **Python**, **SQL**, **AWS**, **Tableau**, **PySpark**, and **Snowflake**.
 
 I thrive on creating meaningful insights from data and solving complex real-world challenges. Outside of work and academics, I enjoy a good matcha and some vegan sushi! 
 
 Updates
 ======
-May 2025: I graduated from UT Austin with  a Master's in Information Science (specializing in Data Analytics and Applied Machine Learning) <br>
-Aug 2024: I will be TAing for Eng Communication with Prof.Deborah Hempel-Medina <br>
-Jun 2024: I will be joining TxDOT as a Data Science Intern <br>
-Jan 2024: I started TAing for Digital Technologies and Business Innovations with Prof.Ashish Agarwal <br>
-Aug 2023: I will be starting my MS in Information Science at UT Austin <br>
-Aug 2021: I started full-time with ZS as a Data Analytics Engineer <br>
-Jun 2021: I graduated from VIT Vellore with a BTech in Computer Science <br>
-Feb 2021: I joined ZS as a Business Technology Analyst intern <br>
+**May 2025**: I graduated from UT Austin with a Master's in Information Science (specializing in Data Analytics and Applied Machine Learning) <br>
+**Aug 2024**: I will be TAing for Eng Communication with Prof.Deborah Hempel-Medina <br>
+**Jun 2024**: I will be joining TxDOT as a Data Science Intern <br>
+**Jan 2024**: I started TAing for Digital Technologies and Business Innovations with Prof.Ashish Agarwal <br>
+**Aug 2023**: I will be starting my MS in Information Science at UT Austin <br>
+**Aug 2021**: I started full-time with ZS as a Data Analytics Engineer <br>
+**Jun 2021**: I graduated from VIT Vellore with a BTech in Computer Science <br>
+**Feb 2021**: I joined ZS as a Business Technology Analyst intern <br>
