@@ -11,10 +11,8 @@ Data Analyst with 3+ years of experience and a recent grad from UT Austin.
 
 About Me
 ======
-I’m passionate about leveraging data to solve complex problems, particularly in areas like data analytics, data engineering, business intelligence, and natural language processing.
-
-My technical toolkit includes **Python**, **SQL**, **AWS**, **Tableau**, **PySpark**, and **Snowflake**.
-
+I’m passionate about leveraging data to solve complex problems, particularly in areas like data analytics, data engineering, business intelligence, and natural language processing. <br>
+My technical toolkit includes **Python**, **SQL**, **AWS**, **Tableau**, **PySpark**, and **Snowflake**. <br>
 I thrive on creating meaningful insights from data and solving complex real-world challenges. Outside of work and academics, I enjoy a good matcha and some vegan sushi! 
 
 Updates
@@ -28,7 +26,7 @@ Updates
 **Jun 2021**: I graduated from VIT Vellore with a BTech in Computer Science <br>
 **Feb 2021**: I joined ZS as a Business Technology Analyst intern <br>
 
-Project
+Projects
 ======
 **[RAG based Research Assistant](https://github.com/srishtishankar/RAG-research-assistant)** <br>
 A Research Assistant Tool that utilizes a Retrieval-Augmented Generation (RAG) approach to provide precise and contextually relevant answers to queries based on a dataset of scientific papers. By combining advanced retrieval techniques and large language models (LLMs), this system delivers accurate and concise responses for research purposes. <br>
